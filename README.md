@@ -67,8 +67,8 @@ backend/app/
 ## 5. Cài đặt
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/HauBaka/MyPaste.git
+cd MyPaste
 python -m venv .venv
 ```
 
